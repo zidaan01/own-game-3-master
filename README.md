@@ -1,1 +1,2 @@
-# own-game-3-master
+# collisionAlgorithm
+Algorithm to detect collision between two objects
